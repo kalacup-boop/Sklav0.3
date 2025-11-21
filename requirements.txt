@@ -1,4 +1,8 @@
+# requirements.txt
 streamlit
 pandas
-openpyxl
-XlsxWriter
+sqlite3
+requests
+fuzzywuzzy
+python-levenshtein
+openpyxl 
